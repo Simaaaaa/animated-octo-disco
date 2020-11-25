@@ -41,3 +41,6 @@ dist/
 
 # Optional eslint cache
 .eslintcache
+
+/src/react-app-env.d.ts
+tsconfig.json
